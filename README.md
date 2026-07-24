@@ -2,7 +2,11 @@
 
 Fast, focused developer tools that run entirely in your browser. No accounts, no ads, no data ever leaving your machine.
 
-**Live:** [toolery.vercel.app](https://toolery-d.vercel.app)
+## Live Demo
+
+🔗 [Try Toolery](https://toolery-d.vercel.app/)
+
+![Toolery screenshot](./docs/screenshot.png)
 
 ## Why Toolery
 
