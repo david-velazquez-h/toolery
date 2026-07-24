@@ -2,7 +2,7 @@
 
 Fast, focused developer tools that run entirely in your browser. No accounts, no ads, no data ever leaving your machine.
 
-**Live:** [toolery.vercel.app](https://toolery.vercel.app)
+**Live:** [toolery.vercel.app](https://toolery-d.vercel.app)
 
 ## Why Toolery
 
@@ -49,7 +49,7 @@ src/
 ## Getting Started
 
 ```bash
-git clone https://github.com/david-velazquez-h/toolery-d.git
+git clone https://github.com/david-velazquez-h/toolery.git
 cd toolery
 npm install
 npm run dev
