@@ -49,7 +49,7 @@ src/
 ## Getting Started
 
 ```bash
-git clone https://github.com/david-velazquez-h/toolery_.git
+git clone https://github.com/david-velazquez-h/toolery-d.git
 cd toolery
 npm install
 npm run dev
